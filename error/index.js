@@ -61,14 +61,14 @@ function processarCadastro(dados) {
 }
 
 console.log(processarCadastro({
-    nome: "Maria Silva",
-    email: "maria@email.com",
+    nome: "bianca Martins",
+    email: "bianca@email.com",
     senha: "123456",
     idade: 20
 }));
 
 console.log(processarCadastro({
-    nome: "Ma",
+    nome: "bia",
     email: "email-invalido",
     senha: "123",
     idade: 16
